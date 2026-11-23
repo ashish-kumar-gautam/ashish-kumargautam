@@ -49,7 +49,6 @@ Shri Siddhivinayak Group of Institute, Bareilly
 
 ---
 
-🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
