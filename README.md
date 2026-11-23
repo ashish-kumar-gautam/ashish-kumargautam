@@ -19,6 +19,9 @@ I'm a Computer Science Engineering student passionate about web development, pro
 - Python
 - C
 - Git & GitHub
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode" />
+</p>
 
 ---
 
