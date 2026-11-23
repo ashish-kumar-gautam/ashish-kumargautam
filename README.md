@@ -39,16 +39,23 @@ A website built using HTML and CSS to practice frontend development.
 
 🎓 Education
 
-B.Tech – Computer Science Engineering
+## 🎓 Education
+
+**B.Tech – Computer Science Engineering**
+
 Shri Siddhivinayak Group of Institute, Bareilly
-Expected Graduation: 2028
+
+- Expected Graduation: 2028
 
 ---
 
 🤝 Connect With Me
 
-- LinkedIn: "Ashish Kumar Gautam" (https://www.linkedin.com/in/ashish-kumar-gautam-73)
-- GitHub: "@ashish-kumargautam" (https://github.com/ashish-kumargautam)
+## 🤝 Connect With Me
+
+- LinkedIn: [Ashish Kumar Gautam](https://www.linkedin.com/in/ashish-kumar-gautam-73)
+- GitHub: [ashish-kumar-gautam](https://github.com/ashish-kumar-gautam)
+- Email: ashishkumar37047@gmail.com
 
 ---
 
